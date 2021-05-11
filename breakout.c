@@ -2,7 +2,7 @@
 //func.c
 //
 //The functions from the program are written here
-#include "func.h"
+#include "breakout.h"
 
 //Resets the board to its original state
 void resetBoard(Brick brick[][7], int row, int col, int width, int height){

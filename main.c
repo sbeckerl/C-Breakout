@@ -2,7 +2,7 @@
 //project.c
 //
 //This project contains the main for a program that runs a version of the game brick breaker
-#include "func.h"
+#include "breakout.h"
 
 int main(){
 	bool cont = true, reset = false, ball = false;
